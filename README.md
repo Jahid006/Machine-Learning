@@ -1,2 +1,2 @@
 # Machine-Learning
-basic Machine learning beginner Projects
+basic Machine learning Projects for beginners
